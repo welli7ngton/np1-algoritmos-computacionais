@@ -22,5 +22,4 @@ E essa é a minha solução para a prova NP1 da cadeira de Algoritmos Computacio
 c++ solucao.cpp -o 'outputfile'
 ```
 
-
-### veja meu [perfil](https://github.com/welli7ngton)
+### Veja mais projetos no meu [perfil](https://github.com/welli7ngton)
