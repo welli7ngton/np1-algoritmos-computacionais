@@ -1,4 +1,6 @@
 # NP1 Algoritmos Computacionais
+E essa é a minha solução para a prova NP1 da cadeira de Algoritmos Computacionais ministrada pelo coordenador do curso [Sandro Mesquita](https://www.linkedin.com/in/sandro-mesquita-713148145/)
+
 ## Objetivos:
     1. Pergunta sobre nova reserva:
         ◦ Após cada reserva, o sistema deve perguntar ao atendente se deseja realizar outra reserva.
@@ -17,7 +19,6 @@
     • O sistema deve garantir que, ao selecionar um tipo de passagem, as restrições de assentos sejam respeitadas.
     • Você deve utilizar estruturas condicionais (if, else, switch) e laços de repetição (while) para implementar os comportamentos descritos.****
 ## Complie&Run ;)
-E essa é a minha solução para a prova NP1 da cadeira de Algoritmos Computacionais ministrada pelo coordenador do curso [Sandro Mesquita](https://www.linkedin.com/in/sandro-mesquita-713148145/)
 ```bash
 c++ solucao.cpp -o 'outputfile'
 ```
